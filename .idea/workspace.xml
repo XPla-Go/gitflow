@@ -7,19 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="release/1.1.0" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pATRTaDbkoAGlYQP5vvZ4Cok7q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,14 +37,6 @@
       <option name="project" value="LOCAL" />
       <updated>1614625663637</updated>
     </task>
-    <task id="LOCAL-00002" summary="1.2.0">
-      <created>1614626471106</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1614626471106</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,7 +50,6 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="release/1.2.0" />
                       </list>
                     </value>
                   </entry>
@@ -77,11 +60,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="1.1.0" />
-    <MESSAGE value="1.2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.2.0" />
   </component>
 </project>
